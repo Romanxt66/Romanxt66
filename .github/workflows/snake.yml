@@ -1,0 +1,37 @@
+name: Generar animacion de la serpiente
+
+on:
+  # Se regenera cada 12 horas para que la serpiente coma las contribuciones nuevas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite lanzarla a mano desde la pestana Actions
+  workflow_dispatch:
+  # Y tambien al hacer push a main
+  push:
+    branches:
+      - main
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generar la serpiente a partir del grafico de contribuciones
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=#1f6feb&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      - name: Publicar el resultado en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
