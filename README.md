@@ -95,10 +95,6 @@ Punto de venta de escritorio con interfaz propia en tema oscuro, separando domin
 
 Guías de formación en Python: desde sintaxis y estructuras de control hasta ejercicios más completos.
 
-### ⚙️ [N8N-TEMPLATES](https://github.com/Romanxt66/N8N-TEMPLATES)
-
-Colección de plantillas de automatización de n8n que uso como referencia para mis flujos de trabajo.
-
 ---
 
 ## 📊 Mis estadísticas
