@@ -91,22 +91,35 @@ Punto de venta de escritorio con interfaz propia en tema oscuro, separando domin
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Romanxt66&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Estadísticas de GitHub de Romanxt66" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romanxt66&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Lenguajes más usados" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romanxt66&theme=tokyonight" alt="Resumen del perfil de Romanxt66" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romanxt66&hide_border=true&theme=tokyonight" alt="Racha de contribuciones" />
-</p>
-
-### 📈 Mis contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Romanxt66&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=1a1b27&area=true&hide_border=true" alt="Gráfico de actividad de contribuciones de Romanxt66" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Romanxt66&theme=tokyonight" alt="Repositorios por lenguaje" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Romanxt66&theme=tokyonight" alt="Lenguajes con más commits" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/1f6feb/Romanxt66" alt="Mapa de contribuciones de Romanxt66" width="100%" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Romanxt66&theme=tokyonight" alt="Estadísticas generales" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Romanxt66&theme=tokyonight&utcOffset=-5" alt="Horario más productivo" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Romanxt66&hide_border=true&theme=tokyonight&locale=es" alt="Racha de contribuciones" />
+</p>
+
+### 🐍 Mis contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romanxt66/Romanxt66/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romanxt66/Romanxt66/output/snake.svg" />
+    <img alt="La serpiente comiéndose el mapa de contribuciones de Romanxt66" src="https://raw.githubusercontent.com/Romanxt66/Romanxt66/output/snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>🔄 Se regenera cada 12 horas, así que la serpiente siempre se come las contribuciones nuevas.</sub>
 </p>
 
 ---
