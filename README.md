@@ -81,19 +81,10 @@ Plataforma para administrar la etapa productiva de los aprendices: fichas, instr
 Panel interno todo-en-uno: automatizaciones programadas, plantillas de correo, finanzas, inventario, monitoreo de uptime e integraciones con GitHub, Coolify y n8n.
 `Next.js 16` · `TypeScript` · `Prisma 7` · `PostgreSQL` · `Tailwind CSS` · `Vitest`
 
-### 📚 [Biblioteca-Flask22](https://github.com/Romanxt66/Biblioteca-Flask22)
-
-Sistema de gestión de biblioteca con autenticación, préstamos y **generación de códigos QR** para los ejemplares.
-`Flask` · `Flask-Login` · `SQLAlchemy` · `qrcode` · `Pillow`
-
 ### 🛒 [POS](https://github.com/Romanxt66/POS)
 
 Punto de venta de escritorio con interfaz propia en tema oscuro, separando dominio, servicio y GUI. Incluye ejecutable.
 `Python` · `Tkinter` · `Arquitectura por capas`
-
-### 🐍 [GUIA1](https://github.com/Romanxt66/GUIA1) · [GUIA2](https://github.com/Romanxt66/GUIA2) · [GUIA3](https://github.com/Romanxt66/GUIA3) · [GUIA4](https://github.com/Romanxt66/GUIA4)
-
-Guías de formación en Python: desde sintaxis y estructuras de control hasta ejercicios más completos.
 
 ---
 
@@ -106,6 +97,16 @@ Guías de formación en Python: desde sintaxis y estructuras de control hasta ej
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romanxt66&hide_border=true&theme=tokyonight" alt="Racha de contribuciones" />
+</p>
+
+### 📈 Mis contribuciones
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Romanxt66&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=1a1b27&area=true&hide_border=true" alt="Gráfico de actividad de contribuciones de Romanxt66" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/1f6feb/Romanxt66" alt="Mapa de contribuciones de Romanxt66" width="100%" />
 </p>
 
 ---
